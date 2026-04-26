@@ -3,6 +3,8 @@
 # Overview
 #This repository contains the IDR Profile, a technical implementation designed to bridge the NIST AI Risk Management Framework (AI RMF 1.0) with the evidentiary requirements of the U.S. Copyright Office.The primary objective is to mitigate Asset Devaluation by providing a forensic audit trail that distinguishes human creative expression from machine-generated "stochastic jitter".
 
+The theoretical and legal foundations for this profile are detailed in the broader research paper, currently hosted on SSRN at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6531938
+
 # Key Features
 - Instructional Lineage: Establishes a "Creative Ledger" to verify the human's role as the director of the work.
 - Forensic Controls: Implements controls adapted from NIST SP 800-53, including AU-2 (Event Logging) and MA-1 (Repeatability).
