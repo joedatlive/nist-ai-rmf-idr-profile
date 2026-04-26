@@ -5,6 +5,20 @@
 
 The theoretical and legal foundations for this profile are detailed in the broader research paper, currently hosted on SSRN at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6531938
 
+---
+
+**Note on Terminology Mapping**
+
+This profile uses a cause-and-effect forensic model to distinguish human from machine agency.
+
+**Human Creative Control (HCC)** — the subjective input. Represents the human author's expressive intent and directed instruction sequence, documented in the Creative Ledger.
+
+**Instructional Determinism and Repeatability (IDR)** — the objective verification. Measures the system's technical ability to faithfully execute those instructions without autonomous drift.
+
+IDR is the quantitative metric used to verify the existence of HCC. You cannot have IDR without HCC — but HCC without IDR is legally unverifiable.
+
+---
+
 # Key Features
 - Instructional Lineage: Establishes a "Creative Ledger" to verify the human's role as the director of the work.
 - Forensic Controls: Implements controls adapted from NIST SP 800-53, including AU-2 (Event Logging) and MA-1 (Repeatability).
